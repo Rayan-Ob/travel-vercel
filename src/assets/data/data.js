@@ -1,4 +1,3 @@
-// Best Services array section  in home page
 let serviceCards =
   [{ img: "flag.svg", service: "Guided Tours", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." },
   { img: "plane.svg", service: "Best Flights Options", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." },
@@ -6,7 +5,6 @@ let serviceCards =
   { img: "doctor.svg", service: "Medical insurance", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." }
   ]
 
-// Array Trendy card in home page
 let trendyCards =
   [
     { image: "switherland.png", flag: "switherFlag.svg", daysNumber: 8, people: 30, rate: "100%", country: "Switzerland", desc: "Nam exercitationem commodi et ducimus quia in dolore animi sit mollitia amet id quod eligendi. Et labore harum non nobis ipsum eum molestias mollitia et corporis praesentium a laudantium internos." },
