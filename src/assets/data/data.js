@@ -2,8 +2,7 @@ let serviceCards =
   [{ img: "flag.svg", service: "Guided Tours", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." },
   { img: "plane.svg", service: "Best Flights Options", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." },
   { img: "hand.svg", service: "Religious Tours", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." },
-  { img: "doctor.svg", service: "Medical insurance", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." }
-  ]
+  { img: "doctor.svg", service: "Medical insurance", desc: "sunt qui repellat saepe quo velit aperiam id aliquam placeat." }]
 
 let trendyCards =
   [

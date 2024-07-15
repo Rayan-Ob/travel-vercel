@@ -1,4 +1,5 @@
 import React from 'react'
+import "../../assets/data/data"
 import Hero from '../../Components/Hero/Hero'
 import Services from '../../Components/Services/Services'
 import ServiceItem from '../../Components/ServiceItem/ServiceItem'
